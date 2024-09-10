@@ -14,16 +14,16 @@ Features:-
 
 How It Works:-
 ----------------
-Task Addition: Users input their task in the input box and click the "Add" button. A new task is added to the list and displayed dynamically.
-Task Completion: Clicking on a task toggles its "checked" state, adding a strikethrough and changing the style.
-Task Removal: Each task has a delete button (marked with "×"). When clicked, it removes the task from the list.
-LocalStorage: The saveData function saves the current state of the list in the browser's local storage, and the showTask function retrieves this data on page load.
+* Task Addition: Users input their task in the input box and click the "Add" button. A new task is added to the list and displayed dynamically.
+* Task Completion: Clicking on a task toggles its "checked" state, adding a strikethrough and changing the style.
+* Task Removal: Each task has a delete button (marked with "×"). When clicked, it removes the task from the list.
+* LocalStorage: The saveData function saves the current state of the list in the browser's local storage, and the showTask function retrieves this data on page load.
 
 Technologies Used:-
 -------------------
-HTML5: Structure of the web application.
-CSS3: Styling and layout of the To-Do List. The app includes background images and responsive design.
-JavaScript: Handles the logic of adding, marking, deleting tasks, and interacting with the local storage.
+* HTML5: Structure of the web application.
+* CSS3: Styling and layout of the To-Do List. The app includes background images and responsive design.
+* JavaScript: Handles the logic of adding, marking, deleting tasks, and interacting with the local storage.
 
 File Structure:-
 -----------------
@@ -40,14 +40,14 @@ File Structure:-
 
 Setup Instructions:-
 ---------------------
-Clone the repository:
+1 Clone the repository:
 git clone https://github.com/Jayanth-4/todo-list.git
-Navigate to the project folder and open the index.html file in your browser to view the app.
+2 Navigate to the project folder and open the index.html file in your browser to view the app.
 
 Customization:-
 ----------------
-You can modify the background image and styling by updating the style.css file.
-The logo and icons can be replaced in the /Images folder to personalize the app.
+* You can modify the background image and styling by updating the style.css file.
+* The logo and icons can be replaced in the /Images folder to personalize the app.
 
 Contact:-
 ----------
