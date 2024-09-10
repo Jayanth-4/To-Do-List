@@ -40,8 +40,7 @@ File Structure:-
 
 Setup Instructions:-
 ---------------------
-1 Clone the repository:
-git clone https://github.com/Jayanth-4/todo-list.git
+1 Clone the repository:git clone https://github.com/Jayanth-4/todo-list.git 
 2 Navigate to the project folder and open the index.html file in your browser to view the app.
 
 Customization:-
