@@ -7,10 +7,10 @@ This is a simple yet functional To-Do List web application built using HTML, CSS
 
 Features:-
 -----------
-Add Tasks: Users can input their tasks into a text field and click the "Add" button to add tasks to the list.
-Mark as Completed: Tasks can be marked as completed by clicking on them. Completed tasks will appear with a strikethrough.
-Delete Tasks: Each task has a delete button ("×") that allows users to remove tasks from the list.
-Persistent Data: The list data is stored in localStorage, meaning that it persists even after the browser is refreshed or reopened.
+* Add Tasks: Users can input their tasks into a text field and click the "Add" button to add tasks to the list.
+* Mark as Completed: Tasks can be marked as completed by clicking on them. Completed tasks will appear with a strikethrough.
+* Delete Tasks: Each task has a delete button ("×") that allows users to remove tasks from the list.
+* Persistent Data: The list data is stored in localStorage, meaning that it persists even after the browser is refreshed or reopened.
 
 How It Works:-
 ----------------
